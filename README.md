@@ -1,4 +1,4 @@
-# XYt-XYtool
+# XYt-XYtool-js-bot
 #
 #der code geht über **node.js** : **https://nodejs.org/en/download/**
 #
