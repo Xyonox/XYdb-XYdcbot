@@ -15,4 +15,4 @@
 #befehl : npm i discord.js + npm i discord-xp
 
 #
-#coded by Xyonox
+#coded by **Xyonox https://www.youtube.com/channel/UC5bMbkWyuBk0uR3q26FmfBg/videos**
